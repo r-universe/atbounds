@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ATbounds"]
+	path = ATbounds
+	url = https://github.com/atbounds/atbounds-r
+	shallow = true
+	registered = true
